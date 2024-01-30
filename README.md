@@ -22,7 +22,7 @@ pip install streamlit pandas sklearn
 streamlit run app.py
 ```
 
-4. Access the app in your web browser at the provided local URL (usually http://localhost:8501/).
+4. Access the app in your web browser at the provided local URL (http://localhost:8501).
 
 ## Features
 
